@@ -1,0 +1,4 @@
+MAC - B4-8C-9D-13-CA-2B
+MAKE - HP          
+MODEL - HP Pavilion Laptop 14-dv2xxx
+SerialNumber - 5CD242H9NS
